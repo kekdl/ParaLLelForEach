@@ -1,0 +1,11 @@
+/home/sasha/wargamming/ParallelForEach/bin/Debug/netcoreapp2.1/ParallelForEach.deps.json
+/home/sasha/wargamming/ParallelForEach/bin/Debug/netcoreapp2.1/ParallelForEach.runtimeconfig.json
+/home/sasha/wargamming/ParallelForEach/bin/Debug/netcoreapp2.1/ParallelForEach.runtimeconfig.dev.json
+/home/sasha/wargamming/ParallelForEach/bin/Debug/netcoreapp2.1/ParallelForEach.dll
+/home/sasha/wargamming/ParallelForEach/bin/Debug/netcoreapp2.1/ParallelForEach.pdb
+/home/sasha/wargamming/ParallelForEach/obj/Debug/netcoreapp2.1/ParallelForEach.csprojAssemblyReference.cache
+/home/sasha/wargamming/ParallelForEach/obj/Debug/netcoreapp2.1/ParallelForEach.csproj.CoreCompileInputs.cache
+/home/sasha/wargamming/ParallelForEach/obj/Debug/netcoreapp2.1/ParallelForEach.AssemblyInfoInputs.cache
+/home/sasha/wargamming/ParallelForEach/obj/Debug/netcoreapp2.1/ParallelForEach.AssemblyInfo.cs
+/home/sasha/wargamming/ParallelForEach/obj/Debug/netcoreapp2.1/ParallelForEach.dll
+/home/sasha/wargamming/ParallelForEach/obj/Debug/netcoreapp2.1/ParallelForEach.pdb
