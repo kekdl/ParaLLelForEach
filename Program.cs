@@ -20,6 +20,22 @@ namespace ParallelForEach
                // Do nothing with the data except read it.
                // Ничего не делаю с данными, кроме чтения.
                //byte[] data = File.ReadAllBytes(f);
+               //System.IO.FileInfo fi = new System.IO.FileInfo(f);
+                if (Path.GetExtension(f) == ".json")
+                 {
+                    // FileStream fs = new FileStream(f, FileMode.Open);
+                  StreamReader sr = new StreamReader(f);
+                  Console.WriteLine(sr.GetHashCode());
+                  //string json = sr.ReadToEnd();
+                     //Console.WriteLine("***********json************");
+                     //Console.WriteLine(json);
+                  //if (json.Contains("Masha"))
+                   //      {
+                            // Console.WriteLine(fi.FullName);
+                            // listFile.Add(f);
+                   //      }
+                     
+                 }
             }
             catch (FileNotFoundException) {}
             catch (IOException) {}
