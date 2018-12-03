@@ -43,7 +43,7 @@ namespace ParallelForEach
       var sw = Stopwatch.StartNew();
 
       // Determine whether to parallelize file processing on each folder based on processor count.
-      int procCount = 5;
+      int procCount = 15;
       //System.Environment.ProcessorCount;
 
       // Data structure to hold names of subfolders to be examined for files.
