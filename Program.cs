@@ -13,7 +13,7 @@ namespace ParallelForEach
         static void Main()
    {            
       try {
-         TraverseTreeParallelForEach(@"/home/sasha/wargamming/1", (f) =>
+         TraverseTreeParallelForEach(@"/home/vadim/wargamming/", (f) =>
          {
             // Exceptions are no-ops.
             try {
